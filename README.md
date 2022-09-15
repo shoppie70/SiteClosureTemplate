@@ -1,7 +1,7 @@
 # Site Closure Template
 
 ## Demo Page
-- https://shoppie70.github.io/Site-closure-template/
+- https://shoppie70.github.io/SiteClosureTemplate/
 
 ## Usage
 Put these files on your server.
